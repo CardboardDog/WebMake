@@ -1,0 +1,9 @@
+{
+    "Electron" : {
+        "autoHideMenuBar" : true
+    },
+    "Build" : {
+        "Mode" : "Win32",
+        "Clean" : true
+    }
+}
